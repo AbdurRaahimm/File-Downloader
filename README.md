@@ -1,10 +1,11 @@
-# React Vite Tailwind Project
-This is a template for a React project with Vite and Tailwind CSS.
+# React File Downloader App
+A simple React File Downloader App using Vite, Tailwind CSS, and React.
+
 
 ## Usage
 1. Clone this repository
 ```bash
-git clone https://github.com/AbdurRaahimm/react-vite-tailwind-starter.git
+git clone https://github.com/AbdurRaahimm/File-Downloader.git
 ```
 2. Run The Essential Dependency
 ```bash
@@ -18,17 +19,23 @@ npm run dev
 ```bash
 npm run build
 ```
-5. Run `npm run serve` to serve the build
-```bash
-npm run serve
-```
 
-## Features
+## Screenshots
+![File Downloader](image.png)
+
+## Live Demo
+[Live Demo](https://files-downlooader.netlify.app)
+
+
+## Tools
 - React
 - Vite
 - Tailwind CSS
 - ESLint
 - Prettier
+- web share API
+- React Toastify
+
 
 
 ## Connect on Social Media
